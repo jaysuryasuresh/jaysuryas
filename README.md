@@ -35,7 +35,7 @@ Showcasing my front-end skills, responsive design, and clean UI development.
 
 🛒 1MDM Seller – Responsive Seller Dashboard
 
-     🔗 Live Demo: https://jaysuryasuresh.github.io/1mdm-seller/
+     🔗 Live Demo: [https://jaysuryasuresh.github.io/1mdm-seller/](url)
 
      📝 Highlights:
 
@@ -50,7 +50,7 @@ Showcasing my front-end skills, responsive design, and clean UI development.
 
 💻 GeekStack – Tech Landing Page
 
-       🔗 Live Demo: https://jaysuryasuresh.github.io/Geekstack/
+       🔗 Live Demo: [https://jaysuryasuresh.github.io/Geekstack/](url)
 
      📝 Highlights:
 
