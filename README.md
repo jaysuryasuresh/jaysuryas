@@ -4,10 +4,10 @@
 
 ## 🔧 Technical Skills
 
-- **Languages**: C, Python  
-- **Web Technologies**: HTML, CSS, JavaScript  
-- **Databases**: MySQL, Neo4j  
-- **Tools & Frameworks**: IBM SPSS Statistics, R Studio, Android Studio, Excel  
+- **Languages**: Python, Java, C#  
+- **Web Technologies**: HTML, CSS, JavaScript, Node.js 
+- **Databases**: SQL, MongoDB, Neo4j  
+- **Tools & Frameworks**: Git, .NET, IBM SPSS Statistics, R Studio, Android Studio, Excel  
 - **Operating Systems**: Windows  
 
 ---
@@ -29,7 +29,40 @@
 - **Description**: A portal to manage student seating and exam hall allocations.
 - **Status**: Completed
 
----
+---✨ Personal Web Projects
+
+Showcasing my front-end skills, responsive design, and clean UI development.
+
+🛒 1MDM Seller – Responsive Seller Dashboard
+
+     🔗 Live Demo: https://jaysuryasuresh.github.io/1mdm-seller/
+
+     📝 Highlights:
+
+           ✔ Fully responsive design
+
+           ✔ Modern and clean UI
+
+           ✔ Smooth navigation between pages
+
+     🔧 Tech Used:
+            HTML, CSS, JavaScript
+
+💻 GeekStack – Tech Landing Page
+
+       🔗 Live Demo: https://jaysuryasuresh.github.io/Geekstack/
+
+     📝 Highlights:
+
+           ✔ Eye-catching hero section
+
+           ✔ Optimized layout for all screen sizes
+
+           ✔ Simple and elegant interface
+
+    🔧 Tech Used:
+        HTML, CSS, JavaScript
+
 
 ## 📫 How to Reach Me
 
